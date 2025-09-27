@@ -1,0 +1,25 @@
+h1{
+    background-color:rgb(211, 195, 195);
+}
+body{
+    background-color: #ffffff;
+}
+.head{
+    background-color: navajowhite;
+}
+.yar{
+    background-color: tomato;
+}
+
+.aap{
+    color: blue;
+    text-align: center;
+    font-size: 90px;
+    font-style: italic;
+    text-decoration: underline ;
+    text-decoration-color: aqua;
+    text-decoration-style:dashed;
+    text-transform: capitalize;
+text-shadow: 7px 9px 11px rgb(27, 181, 27);
+
+}

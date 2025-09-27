@@ -1,0 +1,33 @@
+#btn{
+    background-color: chartreuse;
+    padding: 10px 20px;
+    border: none;
+   
+}
+
+#btn:hover{
+    background-color: blue;
+    border: 15px;
+    border: 1px solid black;
+    color: white;
+    transition: all .6s;
+}
+
+h1:first-child{
+
+    background-color: blueviolet;
+}
+
+h1:last-child{
+    background-color: blueviolet;
+}
+h1:nth-child(3){
+    background-color: aquamarine;
+}
+h1:nth-child(odd){
+    background-color: aquamarine;
+    
+}
+h1:nth-child(even){
+    background-color: aquamarine;
+}

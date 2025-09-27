@@ -1,0 +1,23 @@
+.parent{
+background-color: aqua;
+height: 400px;
+margin: 100px;
+}
+
+.child{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.ram1{
+background-color: aqua;
+height: 400px;
+margin: 100px;
+ position: fixed;
+ top: 0px;
+}
+
